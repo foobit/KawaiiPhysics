@@ -10,6 +10,7 @@
 #include "Runtime/Launch/Resources/Version.h"
 #include "SceneInterface.h"
 #include "PhysicsEngine/PhysicsAsset.h"
+#include "PhysicsEngine/SkeletalBodySetup.h"
 
 #if WITH_EDITOR
 #include "UnrealEdGlobals.h"

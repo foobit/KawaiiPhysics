@@ -4,7 +4,7 @@
 #include "BoneContainer.h"
 #include "BonePose.h"
 #include "GameplayTagContainer.h"
-#include "InstancedStruct.h"
+#include "StructUtils/InstancedStruct.h"
 #include "BoneControllers/AnimNode_AnimDynamics.h"
 #include "BoneControllers/AnimNode_SkeletalControlBase.h"
 #include "AnimNode_KawaiiPhysics.generated.h"
